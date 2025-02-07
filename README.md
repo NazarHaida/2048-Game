@@ -1,4 +1,7 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+This is a 2048 game built with JavaScript and the DOM, where players slide numbered tiles to combine them and reach 2048. The game includes win/loss detection, score tracking, and dynamic tile updates.
+
+Technologies Used:
+JavaScript – Handles game logic and user interactions.
+DOM Manipulation – Updates the game board dynamically.
+
+DEMO: https://nazarhaida.github.io/2048-Game/
